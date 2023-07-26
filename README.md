@@ -38,6 +38,7 @@
   1) Developing a website using HTML and CSS formatting
 
   2) Run XAMPP server
+     
      ![xamp1](https://github.com/iFatma2/SM32-WebProg01/assets/139279448/6a5a107c-353d-4306-a56f-82d26d6c5830)
 
 
